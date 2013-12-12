@@ -1,4 +1,4 @@
 test_eduromo
 ============
 
-pruebas de github
+pruebas de test de eduromo
